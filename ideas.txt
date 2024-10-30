@@ -1,0 +1,9 @@
+Models:
+-ARIMA 
+-LSTM
+  * Benefits
+    * Good with sequential data. Chooses what info is important and can keep it in the network for a long time with its logic gates
+    * Can regonize patterns and has the structure of a Recurrent Neural Network, which is vital in trying to predict based off given info
+  * Cons
+    * Hard time debugging models
+    * Difficult in coding logic gates (unless we implement using Keras)
